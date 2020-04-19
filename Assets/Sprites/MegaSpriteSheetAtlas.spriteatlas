@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MegaSpriteSheetAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300168, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300170, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300172, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300174, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300160, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300158, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300162, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300156, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300164, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300166, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300176, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300142, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300178, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300140, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300146, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300144, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300150, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300038, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300148, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300036, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300154, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300034, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300152, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300032, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300030, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300028, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300026, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300024, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300022, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300020, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300080, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300082, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300084, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300044, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300086, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300106, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300046, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300088, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300104, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300040, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300090, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300102, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300042, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300070, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300092, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300100, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300132, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300052, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300068, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300094, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300114, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300134, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300054, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300074, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300096, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300112, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300128, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300048, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300072, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300098, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300110, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300130, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300050, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300062, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300108, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300124, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300060, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300126, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300066, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300120, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300056, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300064, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300118, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300122, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300058, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300116, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300078, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300076, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300136, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300138, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300008, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300010, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300012, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300014, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300000, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300002, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300004, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300006, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300016, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  - {fileID: 21300018, guid: 8167381cfba512e41aeb5d909177c352, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mega Sprite sheet_84
+  - Mega Sprite sheet_85
+  - Mega Sprite sheet_86
+  - Mega Sprite sheet_87
+  - Mega Sprite sheet_80
+  - Mega Sprite sheet_79
+  - Mega Sprite sheet_81
+  - Mega Sprite sheet_78
+  - Mega Sprite sheet_82
+  - Mega Sprite sheet_83
+  - Mega Sprite sheet_88
+  - Mega Sprite sheet_71
+  - Mega Sprite sheet_89
+  - Mega Sprite sheet_70
+  - Mega Sprite sheet_73
+  - Mega Sprite sheet_72
+  - Mega Sprite sheet_75
+  - Mega Sprite sheet_19
+  - Mega Sprite sheet_74
+  - Mega Sprite sheet_18
+  - Mega Sprite sheet_77
+  - Mega Sprite sheet_17
+  - Mega Sprite sheet_76
+  - Mega Sprite sheet_16
+  - Mega Sprite sheet_15
+  - Mega Sprite sheet_14
+  - Mega Sprite sheet_13
+  - Mega Sprite sheet_12
+  - Mega Sprite sheet_11
+  - Mega Sprite sheet_10
+  - Mega Sprite sheet_40
+  - Mega Sprite sheet_41
+  - Mega Sprite sheet_42
+  - Mega Sprite sheet_22
+  - Mega Sprite sheet_43
+  - Mega Sprite sheet_53
+  - Mega Sprite sheet_23
+  - Mega Sprite sheet_44
+  - Mega Sprite sheet_52
+  - Mega Sprite sheet_20
+  - Mega Sprite sheet_45
+  - Mega Sprite sheet_51
+  - Mega Sprite sheet_21
+  - Mega Sprite sheet_35
+  - Mega Sprite sheet_46
+  - Mega Sprite sheet_50
+  - Mega Sprite sheet_66
+  - Mega Sprite sheet_26
+  - Mega Sprite sheet_34
+  - Mega Sprite sheet_47
+  - Mega Sprite sheet_57
+  - Mega Sprite sheet_67
+  - Mega Sprite sheet_27
+  - Mega Sprite sheet_37
+  - Mega Sprite sheet_48
+  - Mega Sprite sheet_56
+  - Mega Sprite sheet_64
+  - Mega Sprite sheet_24
+  - Mega Sprite sheet_36
+  - Mega Sprite sheet_49
+  - Mega Sprite sheet_55
+  - Mega Sprite sheet_65
+  - Mega Sprite sheet_25
+  - Mega Sprite sheet_31
+  - Mega Sprite sheet_54
+  - Mega Sprite sheet_62
+  - Mega Sprite sheet_30
+  - Mega Sprite sheet_63
+  - Mega Sprite sheet_33
+  - Mega Sprite sheet_60
+  - Mega Sprite sheet_28
+  - Mega Sprite sheet_32
+  - Mega Sprite sheet_59
+  - Mega Sprite sheet_61
+  - Mega Sprite sheet_29
+  - Mega Sprite sheet_58
+  - Mega Sprite sheet_39
+  - Mega Sprite sheet_38
+  - Mega Sprite sheet_68
+  - Mega Sprite sheet_69
+  - Mega Sprite sheet_4
+  - Mega Sprite sheet_5
+  - Mega Sprite sheet_6
+  - Mega Sprite sheet_7
+  - Mega Sprite sheet_0
+  - Mega Sprite sheet_1
+  - Mega Sprite sheet_2
+  - Mega Sprite sheet_3
+  - Mega Sprite sheet_8
+  - Mega Sprite sheet_9
+  m_Tag: MegaSpriteSheetAtlas
+  m_IsVariant: 0
